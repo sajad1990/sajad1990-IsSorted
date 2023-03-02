@@ -13,7 +13,7 @@ public class IsSorted {
                 return true;
               
             }else
-            return false;
+              return false;
         
         }
             return false;
